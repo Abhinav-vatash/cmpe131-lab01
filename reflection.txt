@@ -1,1 +1,7 @@
- reflection.
+ 
+ Based on this lab, why is using branches a powerful and safe way for a team of software
+engineers to collaborate on a single project? What problems might it prevent?
+
+Branches are a powerful and safe way for teams to collaborate as it lets developers work on the same project without interfering with each other's code.
+Through Pull requests integrated with CI/CD pipelines, changes can be automatically tested, built, and deployed.
+Branches are great at preventing developers accidentally overwriting each other's code which could affect the team's productivity
